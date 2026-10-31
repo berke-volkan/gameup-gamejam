@@ -1,0 +1,10 @@
+[
+ {"title":"Sıcak hava dalgası","body":"Şehirde enerji talebi zirvede. Üretim planın sınanıyor.","effect":{"impact":-4,"morale":-5}},
+ {"title":"Karbon vergisi","body":"Yeni düzenleme kirletenin hesabını görünür kılıyor.","effect":{"cash":-12,"honesty":4}},
+ {"title":"Basın sorusu","body":"Bir gazeteci, reklamındaki ‘sıfır emisyon’ ifadesinin dipnotunu soruyor.","effect":{"reputation":-3,"trust":-2}},
+ {"title":"Yasa değişikliği","body":"Raporlama standardı yükseldi. Veri ekibi mesaiye kalıyor.","effect":{"cash":-8,"honesty":5}},
+ {"title":"Tedarik zinciri krizi","body":"Bir parça gecikti; yerel alternatif daha temiz ama pahalı.","effect":{"cash":-10,"impact":5,"morale":-2}},
+ {"title":"COP31 daveti","body":"Dünya sahnesi küçük girişimine mikrofon uzatıyor.","effect":{"reputation":12,"trust":8}},
+ {"title":"Rakip skandalı","body":"Pazar genelindeki greenwashing tartışması herkesi daha dikkatli yapıyor.","effect":{"trust":4,"honesty":4}},
+ {"title":"Yağmur hasadı bonusu","body":"Beklenmedik yağış, pilot sistemini doldurdu.","effect":{"cash":10,"impact":7}}
+]

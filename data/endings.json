@@ -1,0 +1,7 @@
+[
+ {"id":"pioneer","title":"Yeşil Öncü","threshold":"impact>=125 and honesty>=70"},
+ {"id":"balanced","title":"Dengeli İklim Şirketi","threshold":"varsayılan"},
+ {"id":"profit","title":"Kâr Canavarı","threshold":"cash>=350 and honesty<55"},
+ {"id":"scandal","title":"Greenwashing Rezaleti","threshold":"risk>=30 or honesty<30"},
+ {"id":"bankrupt","title":"İflas","threshold":"cash<0"}
+]
